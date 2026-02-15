@@ -27,11 +27,14 @@ The repository is organized into two main sections: `algorithms` and `data-struc
 ├── algorithms/         # Algorithm implementations
 │   ├── inc/
 │   ├── src/
-│   └── test/
+│   ├── test/
+│   └── Makefile
 ├── data-structures/    # Data structure implementations
 │   ├── inc/
 │   ├── src/
-│   └── test/
+│   ├── test/
+│   └── Makefile
+├── README.md
 └── LICENSE
 ```
 
