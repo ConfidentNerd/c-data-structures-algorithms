@@ -1,0 +1,32 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.o
+
+# Shared Libraries
+*.so
+
+# Executables
+*.out
+*.exe
+*.app
+
+# Debugging and Profiling
+*.log
+*.dSYM/
+gmon.out
+vgcore.*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
+*.tmp
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
